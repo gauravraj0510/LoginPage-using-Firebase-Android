@@ -12,7 +12,7 @@ Firebase is used to store data at backend.
 
 
 ## Download
-<a href='https://github.com/gauravraj0510/Tic-Tac-Toe-Android-Project/releases/download/TicTacToe/TicTacToe_v1.apk'>
+<a href='https://github.com/gauravraj0510/LoginPage-using-Firebase-Android/releases/download/FirebaseLoginSinup/LoginSignupFirebase_v1.apk'>
 <img alt='Download from release' src='https://www.inspirefm.org/wp-content/uploads/button-apk.png' width=200>
 </a>
 
